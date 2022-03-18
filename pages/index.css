@@ -35,3 +35,11 @@
 @import url(../blocks/about/__image/about__image.css);
 @import url(../blocks/about/__title/about__title.css);
 @import url(../blocks/about/__text/about__text.css);
+
+/* Benefit */
+@import url(../blocks/benefit/benefit.css);
+@import url(../blocks/benefit/__item/benefit__item.css);
+@import url(../blocks/benefit/__info/benefit__info.css);
+@import url(../blocks/benefit/__title/benefit__title.css);
+@import url(../blocks/benefit/__text/benefit__text.css);
+@import url(../blocks/benefit/__image/benefit__image.css);

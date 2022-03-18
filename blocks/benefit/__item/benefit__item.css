@@ -1,0 +1,14 @@
+.benefit__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 32px;
+}
+
+.benefit__item:last-of-type {
+  margin-bottom: 0;
+}
+
+.benefit__item:nth-child(2n) {
+  flex-direction: row-reverse;
+}
