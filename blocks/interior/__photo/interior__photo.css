@@ -1,0 +1,7 @@
+.interior__photo {
+  width: 100%;
+}
+
+.interior__photo:nth-child(4n+1) {
+  grid-row: span 3;
+}

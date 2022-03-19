@@ -1,0 +1,7 @@
+.cards__item {
+  max-width: 384px;
+  min-height: 713px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

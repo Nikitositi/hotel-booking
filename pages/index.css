@@ -21,6 +21,11 @@
 @import url(../blocks/button/button.css);
 @import url(../blocks/button/_place/button_place_header.css);
 
+/* Slider */
+@import url(../blocks/slider/slider.css);
+@import url(../blocks/slider/__item/slider__item.css);
+@import url(../blocks/slider/__item/_active/slider__item_active.css);
+
 /* Lead */
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__info/lead__info.css);
@@ -43,3 +48,30 @@
 @import url(../blocks/benefit/__title/benefit__title.css);
 @import url(../blocks/benefit/__text/benefit__text.css);
 @import url(../blocks/benefit/__image/benefit__image.css);
+
+/* Interior */
+@import url(../blocks/interior/interior.css);
+@import url(../blocks/interior/__title/interior__title.css);
+@import url(../blocks/interior/__grid/inretior__grid.css);
+@import url(../blocks/interior/__photo/interior__photo.css);
+
+/* Reservation */
+@import url(../blocks/reservation/reservation.css);
+@import url(../blocks/reservation/__info/reservation__info.css);
+@import url(../blocks/reservation/__title/reservation__title.css);
+@import url(../blocks/reservation/__text/reservation__text.css);
+
+/* Cards */
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__text/cards__text.css);
+@import url(../blocks/cards/__link/cards__link.css);
+
+/* Reviews */
+@import url(../blocks/reviews/reviews.css);
+@import url(../blocks/reviews/__title/reviews__title.css);
+@import url(../blocks/reviews/__text/reviews__text.css);
+@import url(../blocks/reviews/__avatar/reviews__avatar.css);
+@import url(../blocks/reviews/__author/reviews__author.css);

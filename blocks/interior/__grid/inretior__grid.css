@@ -1,0 +1,6 @@
+.interior__grid {
+  display: grid;
+  gap: 3px;
+  grid-template-columns: 1fr minmax(194px, auto);
+  grid-template-rows: 1fr 1fr 1fr;
+}
