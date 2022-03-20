@@ -6,6 +6,7 @@
 
 /* Container */
 @import url(../blocks/container/container.css);
+@import url(../blocks/container/__footer/container__footer.css);
 
 /* Header */
 @import url(../blocks/header/header.css);
@@ -16,6 +17,7 @@
 /* Logo */
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
 
 /* Button */
 @import url(../blocks/button/button.css);
@@ -75,3 +77,17 @@
 @import url(../blocks/reviews/__text/reviews__text.css);
 @import url(../blocks/reviews/__avatar/reviews__avatar.css);
 @import url(../blocks/reviews/__author/reviews__author.css);
+
+/* Footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/footer/__text/footer__text.css);
+@import url(../blocks/footer/__social/footer__social.css);
+@import url(../blocks/footer/__social-icon/footer__social-icon.css);
+@import url(../blocks/footer/__columns/footer__columns.css);
+@import url(../blocks/footer/__column/footer__column.css);
+@import url(../blocks/footer/__column-title/footer__column-title.css);
+@import url(../blocks/footer/__list/footer__list.css);
+@import url(../blocks/footer/__list-item/footer__list-item.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__link-social/footer__link-social.css);
